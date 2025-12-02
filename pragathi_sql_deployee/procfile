@@ -1,0 +1,1 @@
+web: gunicorn pragathi_sql_deployee.wsgi
